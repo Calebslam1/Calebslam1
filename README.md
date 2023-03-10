@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Calebslam1
-- 👀 I’m interested in frontend
+- 👀 I’m interested in Software Engineering 
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on igsoft
 - 📫 How to reach me 08137929383
